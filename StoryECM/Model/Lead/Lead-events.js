@@ -1,0 +1,1 @@
+﻿model.Lead.name.onGet = function() {	switch (this.type) {		case 'student':			return this.student.fullName;			break;		case 'organization':			return this.organization.name;			break		default:			return 'no name'	}};

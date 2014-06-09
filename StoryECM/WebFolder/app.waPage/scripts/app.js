@@ -1,0 +1,1 @@
+﻿APP = {};APP.mainSplitComp = 'mainViewComp';APP.listComp = 'mainViewComp_listComp'

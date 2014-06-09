@@ -1,0 +1,1 @@
+﻿model.Person.fullName.onGet = function() {	// TODO: full implementation	return this.firstName + " " + this.lastName;};
